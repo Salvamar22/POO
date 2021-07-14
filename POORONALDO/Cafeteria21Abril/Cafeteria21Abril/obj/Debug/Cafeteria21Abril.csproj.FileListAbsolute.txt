@@ -1,0 +1,10 @@
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\bin\Debug\Cafeteria21Abril.exe.config
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\bin\Debug\Cafeteria21Abril.exe
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\bin\Debug\Cafeteria21Abril.pdb
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.csprojAssemblyReference.cache
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.Properties.Resources.resources
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.csproj.GenerateResource.cache
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.csproj.CoreCompileInputs.cache
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.exe
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.pdb
+C:\Users\ronal\RiderProjects\Cafeteria21Abril\Cafeteria21Abril\obj\Debug\Cafeteria21Abril.frmPrincipal.resources
